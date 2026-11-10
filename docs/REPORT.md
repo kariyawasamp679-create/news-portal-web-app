@@ -3,7 +3,7 @@
 **Module:** SE102.3 Web Based Application Development
 **Assessment:** Web Design (Repeat Coursework)
 **Project:** Daily Pulse News - Online News Website with Admin Features
-**Student:** <STUDENT NAME> | **Index No:** <INDEX NUMBER>
+**Student:** Kariyawasam K P P S | **Index No:** 26778
 **GitHub:** https://github.com/kariyawasamp679-create/news-portal-web-app
 
 ---
