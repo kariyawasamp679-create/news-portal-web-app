@@ -1,0 +1,6 @@
+uploads/*
+!uploads/.gitkeep
+.vscode/
+.idea/
+*.log
+config.local.php
